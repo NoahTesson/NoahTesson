@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm Noah, a passionate and curious developer who enjoys bu
 
 ## 🧪 Projects (selection)
 
-- 📱 **MakeIt** – iOS daily sports routine app [](https://github.com/NoahTesson/MakeIt)
+- 📱 **MakeIt** – iOS daily sports routine app [Link to the repository](https://github.com/NoahTesson/MakeIt)
 <!--
 - 🎯 **Habit Tracker** – Cross-platform mobile app built with SwiftUI and Core Data  
 - 🕸️ **Portfolio Website** – React-based personal site (under construction)  
